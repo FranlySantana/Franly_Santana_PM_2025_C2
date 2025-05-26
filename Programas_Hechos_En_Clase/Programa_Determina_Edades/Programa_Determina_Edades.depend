@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748011742 source:c:\users\franlyesr\documents\itla\2do cuatrimestre\pm\programa_determina_edades\main.c
+	<stdio.h>
+	<stdlib.h>
+
