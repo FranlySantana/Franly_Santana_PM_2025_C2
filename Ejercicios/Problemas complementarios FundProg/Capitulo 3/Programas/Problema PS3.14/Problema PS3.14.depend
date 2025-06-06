@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749165968 source:c:\users\franlyesr\downloads\ps\problema ps3.14\main.c
+	<stdio.h>
+	<math.h>
+
