@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752200201 source:c:\users\franlyesr\desktop\programación\ejercicios\programa tarea 8\programa 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
