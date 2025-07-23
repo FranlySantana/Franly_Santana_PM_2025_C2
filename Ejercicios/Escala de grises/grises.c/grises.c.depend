@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1753309456 source:c:\users\franlyesr\documents\itla\2do cuatrimestre\pm\my own projects\grises.c\main.c
+	"stb_image.h"
+	"stb_image_write.h"
+	<stdio.h>
+	<stdlib.h>
+
+1753303910 c:\users\franlyesr\documents\itla\2do cuatrimestre\pm\my own projects\grises.c\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1753303957 c:\users\franlyesr\documents\itla\2do cuatrimestre\pm\my own projects\grises.c\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
